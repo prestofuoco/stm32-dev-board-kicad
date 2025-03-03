@@ -2,8 +2,8 @@
 STM32F103C8Tx dev board developed in KiCad
 
 <p align="center">
-  <img width="49%" src="PCB1.png">
-  <img width="49%" src="PCB2.png">
-  <img width="49%" src="PCB3.png">
-  <img width="49%" src="PCB4.png">
+  <img width="49%" src="1.png">
+  <img width="49%" src="2.png">
+  <img width="49%" src="3.png">
+  <img width="49%" src="4.png">
 </p>
